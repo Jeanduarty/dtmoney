@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Supermercado",
+      "amount": 300,
+      "category": "Compras",
+      "type": "deposit",
+      "createdAt": "2022-10-11T13:08:04.302Z"
+    },
+    {
+      "id": 3,
+      "title": "dsadsa",
+      "amount": 45,
+      "category": "sa",
+      "type": "withdraw",
+      "createdAt": "2022-10-11T13:08:10.120Z"
+    }
+  ]
+}
