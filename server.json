@@ -5,16 +5,24 @@
       "title": "Supermercado",
       "amount": 300,
       "category": "Compras",
-      "type": "deposit",
-      "createdAt": "2022-10-11T13:08:04.302Z"
+      "type": "withdraw",
+      "createdAt": "2022-10-14T15:07:49.773Z"
     },
     {
       "id": 3,
-      "title": "dsadsa",
-      "amount": 45,
-      "category": "sa",
+      "title": "Desenvolvimento de Software",
+      "amount": 12000,
+      "category": "E-commerce",
+      "type": "deposit",
+      "createdAt": "2022-10-14T15:11:32.954Z"
+    },
+    {
+      "id": 4,
+      "title": "Sacolão",
+      "amount": 55,
+      "category": "Compras",
       "type": "withdraw",
-      "createdAt": "2022-10-11T13:08:10.120Z"
+      "createdAt": "2022-10-14T15:17:37.072Z"
     }
   ]
 }
